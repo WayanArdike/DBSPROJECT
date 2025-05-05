@@ -29,7 +29,7 @@ def predict():
     predicted_class = np.argmax(predictions[0])  
     probability = float(np.max(predictions[0])) * 100  
 
-    class_labels = ['cat', 'dog', 'wild'] 
+    class_labels = [ ] #akan disesuaikan dengan label di model 
     label = class_labels[predicted_class]
 
     result = {

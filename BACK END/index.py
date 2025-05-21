@@ -7,7 +7,7 @@ import numpy as np
 app = Flask(__name__)
 CORS(app)
 
-MODEL_PATH = './model/model.h5'  
+MODEL_PATH = './model/best_model.h5'  
 model = load_model(MODEL_PATH)
 
 @app.route('/', methods=['POST'])

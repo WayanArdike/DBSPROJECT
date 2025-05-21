@@ -19,7 +19,7 @@ def predict():
     imagefile.save(image_path)
 
     # Preprocessing
-    image = load_img(image_path, target_size=(150, 150))  
+    image = load_img(image_path, target_size=(244, 244))  
     image = img_to_array(image)
     image = np.expand_dims(image, axis=0)
     image = image / 255.0  

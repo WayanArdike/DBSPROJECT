@@ -29,7 +29,7 @@ def predict():
     predicted_class = np.argmax(predictions[0])  
     probability = float(np.max(predictions[0])) * 100  
 
-    class_labels = ['Bacterial_spot','Early_blight', 'Late_blight', 'Leaf_Mold', 'Septoria_leaf_spot', 'Spider_mites Two-spotted_spider_mite', 'Target_Spot', 'Tomato_Yellow_Leaf_Curl_Virus', 'Tomato_mosaic_virus', 'healthy', 'powdery_mildew'] #akan disesuaikan dengan label di model 
+    class_labels = ['Bacterial_spot','Early_blight', 'Late_blight', 'Leaf_Mold', 'Septoria_leaf_spot', 'Spider_mites', 'Target_Spot', 'Tomato_Yellow_Leaf_Curl_Virus', 'Tomato_mosaic_virus', 'healthy', 'Powdery_mildew'] #akan disesuaikan dengan label di model 
     label = class_labels[predicted_class]
 
     result = {

@@ -3,7 +3,7 @@
 API ini memungkinkan pengguna untuk mengirim gambar daun tomat dan mendapatkan prediksi jenis penyakit yang terdeteksi menggunakan model deep learning yang telah dilatih.
 
 
-## 🚀 Cara Menjalankan API
+## Cara Menjalankan API
 
 ### 1. **Persiapan Lingkungan**
 
@@ -28,7 +28,7 @@ project-directory/
 ```
 
 
-## 🔌 Menjalankan Server
+## Menjalankan Server
 
 Jalankan perintah berikut untuk memulai API:
 
@@ -43,7 +43,7 @@ http://0.0.0.0:8080/
 ```
 
 
-## 📤 Endpoint
+## Endpoint
 
 ### `POST /`
 
@@ -72,7 +72,7 @@ curl -X POST http://localhost:8080/ \
 }
 ```
 
-## 🧐 Model
+## Model
 
 Model disimpan dalam file:
 
@@ -95,17 +95,17 @@ Model ini mengklasifikasikan gambar daun tomat ke dalam salah satu dari 11 kelas
 * Powdery\_Mildew
 
 
-## 📂 Folder `images/`
+## Folder `images/`
 
 Folder ini digunakan untuk menyimpan sementara gambar yang diunggah sebelum diproses.
 
 
-## 💠 Catatan Tambahan
+## Catatan Tambahan
 
 * Pastikan folder `images/` sudah ada sebelum menjalankan server, atau tambahkan pengecekan otomatis pada kode untuk membuat folder jika belum ada.
 * API ini tidak menyimpan gambar jangka panjang; kamu bisa menambahkan pembersihan otomatis jika diperlukan.
 
 
-## ✨ Lisensi
+## Lisensi
 
 Bebas digunakan untuk pengembangan dan edukasi.

@@ -859,6 +859,7 @@ nav ul li a {
         }
 }
 
+
         h1 {
             text-align: center;
             color: #2f4f4f;
@@ -991,5 +992,28 @@ nav ul li a {
               border-top: 2px dashed gray;
               font-weight: bold;
             }
+            #banner_toko p,
+            #banner_article p,
+            #banner_about p {
+              font-size: 30px;
+              font-weight: bold;
+              color: white;
+              max-width: 50%;
+              text-align: center;
+            }
+            #banner_toko,
+#banner_article,
+#banner_about {
+  width: 100%;
+  height: 45vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-blend-mode: darken;
+}
         }
 

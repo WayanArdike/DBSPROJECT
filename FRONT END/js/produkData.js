@@ -128,16 +128,16 @@ export function getProduk(label) {
         gambar: "https://down-id.img.susercontent.com/file/9a3efd45e48b61dcfe22fce62c9f33cf.webp"
       },
       {
-        nama: "Pestisida Nabati / Minyak Mimba / Neem Oil",
-        harga: "https://down-id.img.susercontent.com/file/id-11134207-7rasm-m5v8hyp5ssrc85.webp",
+        nama: "Pestisida Nabati / Minyak Mimba / Neem Oil", 
+        harga: "Rp. 39.987",
         link: "https://s.shopee.co.id/3LEk5JhPat",
-        gambar: "Rp. 39.987"
+        gambar: "https://down-id.img.susercontent.com/file/id-11134207-7rasm-m5v8hyp5ssrc85.webp"
       },
       {
-        nama: "Seroxil Pestisida-Insektisida Organik",
-        harga: "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m5mumejyo15f81.webp",
+        nama: "Seroxil Pestisida-Insektisida Organik", 
+        harga: "Rp. 49.197",
         link: "https://s.shopee.co.id/4q3XsA4Ckk",
-        gambar: "Rp. 49.197"
+        gambar: "https://down-id.img.susercontent.com/file/id-11134207-7ras8-m5mumejyo15f81.webp"
       }
     ],
     Leaf_Mold: [

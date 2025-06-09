@@ -6,6 +6,11 @@ import { getLabels } from "./label.js";
 
 import "../style.css";
 
+window.addEventListener('load', () => {
+  document.body.style.visibility = 'visible';
+  document.body.style.opacity = '1';
+});
+
 const mobileNav = document.querySelector(".hamburger");
 const navbar = document.querySelector(".menubar");
 

@@ -4,7 +4,7 @@ export function getArtikel(label) {
       {
         judul: "Mengenal Lebih Dekat Penyakit Early Blight pada Daun Tomat",
         link: "https://wayanardike.notion.site/Mengenal-Lebih-Dekat-Penyakit-Early-Blight-pada-Daun-Tomat-1f62abd2683e8044a98df4a68d7addd4",
-        gambar: "//wayanardike.notion.site/image/attachment%3A940effca-1075-42e3-b02b-ac44911a469b%3A25fc489d-8d1a-4356-b0ee-c03ab83f421c.png?table=block&id=1f62abd2-683e-8070-b84f-f86b8aa30c4a&spaceId=d623dab0-a9cf-4272-98d6-ffe017b17166&width=1420&userId=&cache=v2"
+        gambar: "https://wayanardike.notion.site/image/attachment%3A940effca-1075-42e3-b02b-ac44911a469b%3A25fc489d-8d1a-4356-b0ee-c03ab83f421c.png?table=block&id=1f62abd2-683e-8070-b84f-f86b8aa30c4a&spaceId=d623dab0-a9cf-4272-98d6-ffe017b17166&width=1420&userId=&cache=v2"
       },
       {
         judul: "Ketika Early Blight Menyerang: Strategi Pengendalian yang Efektif pada Daun Tomat",

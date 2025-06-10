@@ -24,3 +24,9 @@ Praktik pertanian tomat saat ini menghadapi tantangan serius akibat penggunaan p
 Link website:
 ```bash
 https://snaptosave.netlify.app/
+```
+
+Video demo:
+```bash
+https://youtu.be/UjzEyrAdbO8?si=FsJgHzpl7_trTCtY
+```

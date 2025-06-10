@@ -9,5 +9,5 @@ Website SnapToSave hadir sebagai solusi berbasis web yang memungkinkan pengguna 
 2. tampilan antarmuka (UI) yang responsif 
 3. Integrasi fitur seperti upload gambar, dan mendeteksi gambar yg di upload, fitur calkulator, rekomendasi produk yaitu store, rekomendasi artikel dan about us
 
-   ## Struktur Folder
+## Struktur Folder
    

@@ -11,4 +11,20 @@ Website SnapToSave hadir sebagai solusi berbasis web yang memungkinkan pengguna 
 
 ## Struktur Folder
    
+```
+FRONT END/
+├── dist/
+├── foto/
+├── js/
+├── pages/
+├── .babelrc
+├── .gitignore
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── style.css
+├── webpack.config.js
+
+```
 

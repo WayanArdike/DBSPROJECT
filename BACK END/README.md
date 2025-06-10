@@ -20,7 +20,7 @@ Pastikan struktur direktori seperti berikut:
 ```
 project-directory/
 │
-├── app.py
+├── index.py
 ├── model/
 │   └── best_model.h5
 ├── images/

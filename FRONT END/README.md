@@ -27,4 +27,5 @@ FRONT END/
 ├── webpack.config.js
 ```
 ## Penggunaan Aplikasi
-
+1. User mengupload gambar daun
+2. 

@@ -1,4 +1,6 @@
-Dashboard interaktif SnapToSave
+
+Dashboard Interaktif SnapToSave
+
 Website SnapToSave hadir sebagai solusi berbasis web yang memungkinkan pengguna untuk mendeteksi sebuah penyakit dari tanaman tomat melalui sistem deteksi daun ini merupakan fitur utama fitur lainnya yg dibuat oleh Front End yaitu calkulator, rekomendasi produk, rekomendasi artikel dan juga about US yaitu tentang web tersebut. Untuk mendukung fungsi utama tersebut, pengembangan sisi Front-End (FE) menjadi sangat penting.
 Pembuatan Front-End pada SnapToSave difokuskan pada:
 

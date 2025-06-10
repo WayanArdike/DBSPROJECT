@@ -25,6 +25,6 @@ FRONT END/
 ├── package.json
 ├── style.css
 ├── webpack.config.js
-
 ```
+## Penggunaan Aplikasi
 

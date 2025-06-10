@@ -28,4 +28,6 @@ FRONT END/
 ```
 ## Penggunaan Aplikasi
 1. User mengupload gambar daun
-2. 
+2. Klik prediksi
+3. Sistem akan memprediksi
+4. Menampilkan hasil prediksi ( naman penyakit tanaman, keterangan tentang penyakit, solusi penanganan, rekomendasi peoduk dan rekomendasi artikel tentang penyakit tersebut ).
